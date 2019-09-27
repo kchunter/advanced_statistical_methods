@@ -1,1 +1,1 @@
-# advanced_statistics
+# advanced_statistical_methods
